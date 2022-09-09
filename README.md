@@ -1,4 +1,4 @@
 # Coursera Assignment
- 1-> https://italhachaudhary.github.io/Coursera/mod2_solution
+ <a href="https://italhachaudhary.github.io/Coursera/mod2_solution">Module 2</a>
  <br>
- 2-> https://italhachaudhary.github.io/Coursera/mod3_solution
+  <a href="https://italhachaudhary.github.io/Coursera/mod3_solution">Module 3</a>
